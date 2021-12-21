@@ -1,0 +1,15 @@
+{
+  "name": "task_maneger",
+  "version": "1.0.0",
+  "description": "the task manegement softwear",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shunichi0402",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  }
+}
